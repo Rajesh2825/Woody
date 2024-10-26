@@ -42,9 +42,9 @@ WooDY/
 │   └── ...               # Additional images
 │
 └── index.html            # Main HTML file
+```
 
-
-## Contributing
+## contributing
 Contributions are welcome! Please fork the repository and create a pull request for any changes or improvements.
 
 ## License
@@ -53,5 +53,4 @@ This project is licensed under the MIT License.
 ## Contact
 For any queries, please contact:
 
-**Author:** Your Name  
-**Email:** your_email@example.com
+**Author:** Radadiya Rajesh  
